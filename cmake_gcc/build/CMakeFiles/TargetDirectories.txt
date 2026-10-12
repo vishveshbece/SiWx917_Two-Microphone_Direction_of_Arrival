@@ -1,0 +1,4 @@
+C:/Users/nithy/SimplicityStudio/v6_workspace/sl_si91x_mic/cmake_gcc/build/CMakeFiles/slc.dir
+C:/Users/nithy/SimplicityStudio/v6_workspace/sl_si91x_mic/cmake_gcc/build/CMakeFiles/sl_si91x_mic.dir
+C:/Users/nithy/SimplicityStudio/v6_workspace/sl_si91x_mic/cmake_gcc/build/CMakeFiles/edit_cache.dir
+C:/Users/nithy/SimplicityStudio/v6_workspace/sl_si91x_mic/cmake_gcc/build/CMakeFiles/rebuild_cache.dir
